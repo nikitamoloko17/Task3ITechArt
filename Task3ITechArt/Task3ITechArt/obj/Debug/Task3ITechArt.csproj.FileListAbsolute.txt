@@ -1,0 +1,5 @@
+C:\Users\Nikita\Documents\Visual Studio projects\Task3ITechArt\Task3ITechArt\bin\Debug\Task3ITechArt.exe.config
+C:\Users\Nikita\Documents\Visual Studio projects\Task3ITechArt\Task3ITechArt\bin\Debug\Task3ITechArt.exe
+C:\Users\Nikita\Documents\Visual Studio projects\Task3ITechArt\Task3ITechArt\bin\Debug\Task3ITechArt.pdb
+C:\Users\Nikita\Documents\Visual Studio projects\Task3ITechArt\Task3ITechArt\obj\Debug\Task3ITechArt.exe
+C:\Users\Nikita\Documents\Visual Studio projects\Task3ITechArt\Task3ITechArt\obj\Debug\Task3ITechArt.pdb
